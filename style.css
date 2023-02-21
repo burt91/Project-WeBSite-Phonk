@@ -1,0 +1,146 @@
+*
+{
+ margin:auto;
+ padding:auto;
+ background-color: black;
+    background-image: url(https://img.freepik.com/photos-gratuite/vieux-fond-noir-texture-grunge-fond-ecran-sombre-tableau-noir-tableau-noir-mur-salle_1258-28312.jpg?w=1800&t=st=1664803861~exp=1664804461~hmac=5ac926ea511de2fc839fe9b6e2ea5f916d080f6d86b8dc3185a1d259e40d4f48);
+    background-size: 2600px;
+    background-attachment:fixed;
+    line-height: 2;
+
+    
+}
+
+
+header{
+    
+    text-align: center;
+    
+    
+
+}
+
+h1,h2,h3,h4,h5{
+    
+display: inline;
+}
+h1{
+   font-size: 150px;
+    color: #2F2E3E;
+    font-family: "Indie Flower",sans-serif;
+   
+}
+h2{
+    font-size: 100px;
+    color: #E6E8BF;
+    font-family: "Indie Flower",sans-serif;
+   
+    
+}
+h3{
+    font-size: 100px;
+    color: #DDDA00;
+    font-family: "Indie Flower",sans-serif;
+    
+}
+h4{
+    font-size: 100px;
+    color: #F27900;
+    font-family: "Indie Flower",sans-serif;
+    cursor: pointer;
+}
+h5{
+    font-size: 150px;
+    color: #DD1D00;
+    font-family: "Indie Flower",sans-serif;
+    cursor: pointer;
+}
+
+h6{
+    font-size: 30px;
+    color:beige;
+    font-weight :500;
+    font-family: "Indie Flower",sans-serif;
+    text-decoration: underline;
+   
+    
+}
+h7{
+    font-size: 30px;
+    color:beige;
+    font-weight :500;
+    font-family: "Indie Flower",sans-serif;
+    text-decoration: underline;
+    
+}
+h8{
+    font-size: 30px;
+    color:beige;
+    font-weight :500;
+    font-family: "Indie Flower",sans-serif;
+    text-decoration: underline;
+
+}
+h9{
+    font-size: 30px;
+    color:beige;
+    font-weight :500;
+    font-family: "Indie Flower",sans-serif;
+    text-decoration: underline;
+}
+h10{
+    font-size: 30px;
+    color:beige;
+    font-weight :500;
+    font-family: "Indie Flower",sans-serif;
+    text-decoration: underline;
+}
+p6
+{
+    color:beige;
+    font-family:cursive,sans-serif;
+   
+}
+p7
+{
+    color:beige;
+    font-family:cursive,sans-serif;
+    
+    
+    
+}
+p8
+{
+    color:beige;
+    font-family:cursive,sans-serif;
+    
+}
+p9
+{
+    color:beige;
+    font-family:cursive,sans-serif;
+    font-size: 20px;
+    
+}
+p10
+{
+    color:beige;
+    font-family:cursive,sans-serif;
+  
+}
+
+footer
+{
+    color:beige;
+    font-family:cursive,sans-serif;
+    text-align: center
+    
+}
+    
+}
+
+a.linkcolors:hover
+{
+    color: blueviolet;
+    
+}
